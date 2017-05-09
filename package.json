@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-trek",
+  "version": "1.0.0",
+  "description": "Eslint config for Trek.js projects",
+  "repository": "trekjs/eslint-config-trek",
+  "author": {
+    "name": "Fangdun Cai",
+    "email": "cfddream@gmail.com",
+    "url": "fundon.me"
+  },
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "trek",
+    "xo"
+  ],
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": "^2.0.0 || ^3.0.0"
+  }
+}
